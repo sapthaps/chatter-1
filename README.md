@@ -14,7 +14,6 @@
 - The web app enables users to view their own profile, where they can see their posts, comments, and personal information.
 - Users can also explore and view other users' profiles to see their posts and engage with their content.
 - Chatter implements a responsive and user-friendly interface with the help of the React framework.
-- The UI is styled using the Tailwind CSS framework.
 - The backend functionality, including user authentication, data storage, and real-time updates, is handled by Firebase.
 
 <br/>
